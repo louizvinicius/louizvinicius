@@ -1,4 +1,4 @@
-Olá! Meu nome é Luiz Vinicius.
+# Olá! Meu nome é Luiz Vinicius.
 - 🌱 Atualmente,estou cursando superior em Análise e desenvolvimento de sistemas;
 - 👯 Estou a procura de estágios de TI...Estou com essa meta para viver a rotina da area e assim melhorar meu aprendizado.
 - 💬 Estudando C++, Python, HTML5 & CSS3, SQL, php e Vps.
