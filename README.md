@@ -1,7 +1,7 @@
 # Olá,tudo bem? Me chamo Luiz Vinicius.
-- 🌱 Atualmente,estou cursando superior em Análise e desenvolvimento de sistemas;
-- 👯 Estou a procura de estágio e trabalho na area de TI. Minha meta é viver a rotina da área e assim melhorar meu aprendizado.
-- 💬 Estudando C++, Python, HTML5 & CSS3, SQL, php e Vps.
+- 🌱 Atualmente,estou cursando Pós-Graduação em Desenvolvimento Full Stack;
+- 👨‍🎓 Sou graduado em Analise e Desenvolvimento de Sistemas.
+- 💬 Minha meta é viver a rotina de um programador, conhecer novas tecnologias e produzir sistemas em geral.
 <div>
 
 <a href = "mailto:luizvinicius1.lva24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
